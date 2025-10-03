@@ -16,7 +16,9 @@
   Марафон 5 дней - 5 проектов
  --- 
 
-- ()[https://cdn-bucket.hb.bizmrg.com/purple-images/certificates/f7761d96-861d-458b-9f72-6fc2aebd4f18_8_ru.png]
+- ![enter image description here](https://cdn-bucket.hb.bizmrg.com/purple-images/certificates/f7761d96-861d-458b-9f72-6fc2aebd4f18_8_ru.png): CSS Flexbox
+
+---
 
 <!--
 **illicchpv/illicchpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
