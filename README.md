@@ -17,6 +17,10 @@
 - ![enter image description here](https://cdn-bucket.hb.bizmrg.com/purple-images/certificates/f7761d96-861d-458b-9f72-6fc2aebd4f18_8_ru.png)  
 [purpleschool](https://app.purpleschool.ru/):  CSS Flexbox
 
+- ![enter image description here](https://cdn-bucket.hb.bizmrg.com/purple-images/certificates/5353a40a-6a2f-434b-877c-5d27e756fd1f_15_ru.png)  
+[purpleschool](https://app.purpleschool.ru/):  React и Redux Toolkit
+
+
 ---
 
 <!--
